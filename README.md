@@ -39,7 +39,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
                              Molecular Traffic Sinkholing & Reactive Redirection
-
+------------------------------------------------------------------------------------------------------------------------
 # Technical Defense Blueprint: Molecular Traffic Sinkholing & Reactive Redirection
 **Module Name:** Boutaba-Boundary-Hardening-Engine (BBHE)
 **Classification:** Bare-Metal Packet Dropping & Inline Traffic Remediation (Defensive Architecture)
