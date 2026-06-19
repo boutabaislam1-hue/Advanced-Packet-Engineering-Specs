@@ -1,9 +1,9 @@
 
 # Advanced-Packet-Engineering-Specs
 “Technical blueprints and whitepapers exploring asynchronous IRQ storms and molecular traffic sinkholing inside kernel space.”
-
+---------------------------------------------------------------------------------------------------------------------
                                  Advanced-Packet-Engineering-Specs
-
+---------------------------------------------------------------------------------------------------------------------
 # Technical Exploitation Blueprint: Multi-Vector Firmware Thermal Meltdow
 **Module Name:** Boutaba-Asynchronous-IRQ-Storm (BAIS)
 **Classification:** Hardware-Destructive Distributed DoS (Advanced Cyber-Weaponry)
@@ -39,7 +39,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
                              Molecular Traffic Sinkholing & Reactive Redirection
-========================================================================================================================
+
 # Technical Defense Blueprint: Molecular Traffic Sinkholing & Reactive Redirection
 **Module Name:** Boutaba-Boundary-Hardening-Engine (BBHE)
 **Classification:** Bare-Metal Packet Dropping & Inline Traffic Remediation (Defensive Architecture)
