@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------------------------------------------
 
 # Advanced-Packet-Engineering-Specs
 “Technical blueprints and whitepapers exploring asynchronous IRQ storms and molecular traffic sinkholing inside kernel space.”
@@ -73,3 +74,4 @@
 *   **Hardware Interface Saturation:** Because physical components must process incoming electrical interrupts (`IRQs`) to read the packet fields, extreme traffic saturation forces a physical hardware lockup.
 *   **Conclusion:** High PPS floods overwhelm the application logic by targeting the electrical and physical parsing layers of the hardware interfaces, bypassing pure software-defined controls.
 
+-----------------------------------------------------------------------------------------------------------------------------
