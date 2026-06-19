@@ -38,7 +38,6 @@
 *   **Loss Detection:** This acts as a Battle Damage Assessment (BDA). The module parses the responses: if the endpoint reports a consistent, zero-response "Destination Host Unreachable" or drops completely out of network coverage, it verifies complete hardware breakdown and shuts down further flooding to preserve local link resources.
 
 ------------------------------------------------------------------------------------------------------------------------
-========================================================================================================================
                              Molecular Traffic Sinkholing & Reactive Redirection
 ========================================================================================================================
 # Technical Defense Blueprint: Molecular Traffic Sinkholing & Reactive Redirection
@@ -73,4 +72,4 @@
 *   **The Structural Core Vulnerability:** Under hyper-dense flooding attacks (scaling into billions of packets per second), software-defined redirection vectors reach a physical threshold limit.
 *   **Hardware Interface Saturation:** Because physical components must process incoming electrical interrupts (`IRQs`) to read the packet fields, extreme traffic saturation forces a physical hardware lockup.
 *   **Conclusion:** High PPS floods overwhelm the application logic by targeting the electrical and physical parsing layers of the hardware interfaces, bypassing pure software-defined controls.
-=============================================================================================================================
+
